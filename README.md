@@ -1,7 +1,6 @@
 CLRFunctions
-============
 
-This repository holds sources for CLR functions to add on a SQL 2008+ Server
+This repository holds sources for CLR functions to add on a SQL 2005+ Server
 
 1) Modifier la compatibilite de la base de donnees en SQL Server 2005
 2) Compiler via le fichier "compile.bat"
